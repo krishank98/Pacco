@@ -1,7 +1,7 @@
 ui missing
 ![Pacco](https://raw.githubusercontent.com/devmentors/Pacco/master/assets/pacco_logo.png)
 
-**What is Pacco?**..
+**What is Pacco?**...
 ----------------
 
 Pacco is an open source project using **microservices architecture** written in .NET Core 3.1. The domain tackles an exclusive parcels delivery which revolves around the general concept of limited resources availability. Pacco does use an **event-driven** approach in order to asynchronously integrate between the microservices.
